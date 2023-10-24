@@ -1,27 +1,125 @@
 {
   "project_info": {
-    "project_number": "839430557537",
-    "firebase_url": "https://kel1-8ae2e-default-rtdb.firebaseio.com",
-    "project_id": "kel1-8ae2e",
-    "storage_bucket": "kel1-8ae2e.appspot.com"
+    "project_number": "949939380299",
+    "firebase_url": "https://mollery-63499-default-rtdb.firebaseio.com",
+    "project_id": "mollery-63499",
+    "storage_bucket": "mollery-63499.appspot.com"
   },
   "client": [
     {
       "client_info": {
-        "mobilesdk_app_id": "1:839430557537:android:97d0a4142deb2ca0347f20",
+        "mobilesdk_app_id": "1:949939380299:android:026c97da4b0ddf5d3d2dce",
         "android_client_info": {
-          "package_name": "com.example.tesflut"
+          "package_name": "com.example.mobile_studio_gallery"
         }
       },
-      "oauth_client": [],
+      "oauth_client": [
+        {
+          "client_id": "949939380299-bb3c2sfk4s3g8pd42jggvsemaralm47f.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
       "api_key": [
         {
-          "current_key": "AIzaSyC7iHNTMs2RjzGpgTIsTJmjKzrUXehQ0Mw"
+          "current_key": "AIzaSyCTiUxtHJF9KPxDP1-fnpnyxzhJg93ELq4"
+        },
+        {
+          "current_key": "AIzaSyAZJDLCrBsTdRNDZBDct1G0b7nl9IKYbow"
         }
       ],
       "services": {
         "appinvite_service": {
-          "other_platform_oauth_client": []
+          "other_platform_oauth_client": [
+            {
+              "client_id": "949939380299-21n5m7i2tbh96unsk9ai86vvj19f4sfv.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "949939380299-2n1c3h553lf742ikbf2pugu6jl9sqvlb.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.tesflut2.RunnerTests"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:949939380299:android:3e20db750efd49b73d2dce",
+        "android_client_info": {
+          "package_name": "com.example.tesflut"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "949939380299-bb3c2sfk4s3g8pd42jggvsemaralm47f.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCTiUxtHJF9KPxDP1-fnpnyxzhJg93ELq4"
+        },
+        {
+          "current_key": "AIzaSyAZJDLCrBsTdRNDZBDct1G0b7nl9IKYbow"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "949939380299-21n5m7i2tbh96unsk9ai86vvj19f4sfv.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "949939380299-2n1c3h553lf742ikbf2pugu6jl9sqvlb.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.tesflut2.RunnerTests"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:949939380299:android:27efc6f757eae39e3d2dce",
+        "android_client_info": {
+          "package_name": "com.example.tesflut2"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "949939380299-bb3c2sfk4s3g8pd42jggvsemaralm47f.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCTiUxtHJF9KPxDP1-fnpnyxzhJg93ELq4"
+        },
+        {
+          "current_key": "AIzaSyAZJDLCrBsTdRNDZBDct1G0b7nl9IKYbow"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "949939380299-21n5m7i2tbh96unsk9ai86vvj19f4sfv.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "949939380299-2n1c3h553lf742ikbf2pugu6jl9sqvlb.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.tesflut2.RunnerTests"
+              }
+            }
+          ]
         }
       }
     }
